@@ -1,141 +1,141 @@
 # Manual de Instalação Linux
 
-***1 passo***
+## ***1 passo***
 
 ![passo 1](passo1.png)
 
-***2 passo***
+## ***2 passo***
 
 ![passo 2](passo2.png)
 
-***3 passo***
+## ***3 passo***
 
 ![passo 3](passo3.png)
 
-***4 passo***
+## ***4 passo***
 
 ![passo 4](passo4.png)
 
-***5 passo***
+## ***5 passo***
 
 ![passo 5](passo5.png)
 
-***6 passo***
+## ***6 passo***
 
 ![passo 6](passo6.png)
 
-***7 passo***
+## ***7 passo***
 
 ![passo 7](passo7.png)
 
-***8 passo***
+## ***8 passo***
 
 ![passo 8](passo8.png)
 
-***9 passo***
+## ***9 passo***
 
 ![passo 9](passo9.png)
 
-***10 passo***
+## ***10 passo***
 
 ![passo 10](passo10.png)
 
-***11 passo***
+## ***11 passo***
 
 ![passo 11](passo11.png)
 
-***12 passo***
+## ***12 passo***
 
 ![passo 12](passo12.png)
 
-***13 passo***
+## ***13 passo***
 
 ![passo 13](passo13.png)
 
-***14 passo***
+## ***14 passo***
 
 ![passo 14](passo14.png)
 
-***15 passo***
+## ***15 passo***
 
 ![passo 15](passo15.png)
 
-***16 passo***
+## ***16 passo***
 
 ![passo 16](passo16.png)
 
-***17 passo***
+## ***17 passo***
 
 ![passo 17](passo17.png)
 
-***18 passo***
+## ***18 passo***
 
 ![passo 18](passo18.png)
 
-***19 passo***
+## ***19 passo***
 
 ![passo 19](passo19.png)
 
-***20 passo***
+## ***20 passo***
 
 ![passo 20](passo20.png)
 
-***21 passo***
+## ***21 passo***
 
 ![passo 21](passo21.png)
 
-***22 passo***
+## ***22 passo***
 
 ![passo 22](passo22.png)
 
-***23 passo***
+## ***23 passo***
 
 ![passo 23](passo23.png)
 
-***24 passo***
+## ***24 passo***
 
 ![passo 24](passo24.png)
 
-***25 passo***
+## ***25 passo***
 
 ![passo 25](passo25.png)
 
-***26 passo***
+## ***26 passo***
 
 ![passo 26](passo26.png)
 
-***27 passo***
+## ***27 passo***
 
 ![passo 27](passo27.png)
 
-***28 passo***
+## ***28 passo***
 
 ![passo 28](passo28.png)
 
-***29 passo***
+## ***29 passo***
 
 ![passo 29](passo29.png)
 
-***30 passo***
+## ***30 passo***
 
 ![passo 30](passo30.png)
 
-***31 passo***
+## ***31 passo***
 
 ![passo 31](passo31.png)
 
-***32 passo***
+## ***32 passo***
 
 ![passo 32](passo32.png)
 
-***33 passo***
+## ***33 passo***
 
 ![passo 33](passo33.png)
 
-***34 passo***
+## ***34 passo***
 
 ![passo 34](passo34.png)
 
-***35 passo***
+## ***35 passo***
 
 ![passo 35](passo35.png)
